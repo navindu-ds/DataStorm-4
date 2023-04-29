@@ -1,6 +1,6 @@
 # DataStorm-4
 
-Team DataBayes
+Particiapted under the team name "DataBayes".
 
 Data Storm 4.0, Sri Lanka's Premier Advanced Analytics Competition organized by the Rotaract Clubs of University of Moratuwa and Faculty of Science, University of Colombo. 
 
